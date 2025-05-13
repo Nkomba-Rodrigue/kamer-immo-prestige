@@ -10,7 +10,7 @@ const Hero = () => {
       <div 
         className="absolute inset-0 z-0 bg-black/40"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1551038247-3d9af20df552?auto=format&fit=crop&q=80')",
+          backgroundImage: "url('https://images.unsplash.com/photo-1580223530484-849f48ee8ff8?auto=format&fit=crop&q=80')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundBlendMode: "overlay"

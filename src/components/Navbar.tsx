@@ -18,20 +18,20 @@ const Navbar = () => {
             </a>
           </div>
           
-          <div className="hidden md:flex items-center space-x-1">
-            <a href="#" className="px-4 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
+          <div className="hidden md:flex items-center space-x-6">
+            <a href="#" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
               Accueil
             </a>
-            <a href="#properties" className="px-4 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
+            <a href="#properties" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
               Propriétés
             </a>
-            <a href="#types" className="px-4 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
+            <a href="#types" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
               Nos Services
             </a>
-            <a href="#testimonials" className="px-4 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
+            <a href="#testimonials" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
               Témoignages
             </a>
-            <a href="#contact" className="px-4 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
+            <a href="#contact" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-gold transition-colors">
               Contact
             </a>
           </div>
