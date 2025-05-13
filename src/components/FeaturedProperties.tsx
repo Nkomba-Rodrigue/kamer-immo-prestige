@@ -7,35 +7,35 @@ const FeaturedProperties = () => {
   const properties = [
     {
       id: 1,
-      title: "Appartement de luxe à Bonapriso",
+      title: "Appartement de luxe avec vue",
       location: "Bonapriso, Douala",
       price: "150 000 FCFA/mois",
       bedrooms: 3,
       bathrooms: 2,
       area: "120",
-      imageUrl: "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80",
+      imageUrl: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&q=80",
       type: "rent" as const,
       featured: true
     },
     {
       id: 2,
-      title: "Villa moderne à Bastos",
+      title: "Maison familiale moderne",
       location: "Bastos, Yaoundé",
       price: "45 000 000 FCFA",
       bedrooms: 4,
       bathrooms: 3,
       area: "230",
-      imageUrl: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80",
+      imageUrl: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&q=80",
       type: "sale" as const,
       featured: true
     },
     {
       id: 3,
-      title: "Terrain constructible vue mer",
+      title: "Terrain constructible",
       location: "Kribi, Littoral",
       price: "12 000 000 FCFA",
       area: "500",
-      imageUrl: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80",
+      imageUrl: "https://images.unsplash.com/photo-1446629839994-16e05fc1b36e?auto=format&fit=crop&q=80",
       type: "land" as const
     },
     {
@@ -46,7 +46,7 @@ const FeaturedProperties = () => {
       bedrooms: 1,
       bathrooms: 1,
       area: "45",
-      imageUrl: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80",
+      imageUrl: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80",
       type: "rent" as const
     }
   ];
